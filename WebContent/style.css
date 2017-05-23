@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+div {
+    overflow: hidden;
+    height: 30%;
+    width: 60%;
+}
+
+#title {
+    height: 100%;
+    width: 100%;
+}
+
+#content {
+    height: 100%;
+    width: 100%;
+}
+
+table{
+    float: right;
+    border: 1px solid black;
+}
